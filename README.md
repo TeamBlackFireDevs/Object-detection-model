@@ -9,3 +9,4 @@ A powerful real-time object detection project leveraging the YOLO (You Only Look
 Python
 YOLO
 OpenCV
+

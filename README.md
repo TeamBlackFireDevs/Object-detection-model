@@ -6,7 +6,7 @@ A powerful real-time object detection project leveraging the YOLO (You Only Look
 📦 YOLO Integration: Utilizes the YOLO model for fast and accurate object detection.
 🎥 Camera Compatibility: Supports detection using webcam input.
 🛠️ Technologies Used:
-Python
+**Python
 YOLO
-OpenCV
+OpenCV**
  

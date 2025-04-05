@@ -9,4 +9,7 @@ A powerful real-time object detection project leveraging the YOLO (You Only Look
 **Python
 YOLO
 OpenCV**
+
+![image](https://github.com/user-attachments/assets/2c187107-7f48-4700-a1b6-77c55ef84850)
+
  

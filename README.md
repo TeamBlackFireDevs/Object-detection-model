@@ -1,4 +1,5 @@
-🕵️‍♂️ Object Detection with YOLO and OpenCV
+🕵️‍♂️**VisionTrack**
+Object Detection with YOLO and OpenCV
 A powerful real-time object detection project leveraging the YOLO (You Only Look Once) algorithm and OpenCV.
 
 🚀 Features:
